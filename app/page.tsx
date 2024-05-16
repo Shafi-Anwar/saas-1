@@ -163,7 +163,7 @@ export default function Home() {
                   <div className="space-y-2">
                     <h3 className="text-2xl font-bold">Starter</h3>
                     <p className="text-4xl font-bold">
-                      $25
+                      $56
                       <span className="text-lg font-normal text-gray-500 dark:text-gray-400">/mo</span>
                     </p>
                   </div>
@@ -198,7 +198,7 @@ export default function Home() {
                   <div className="space-y-2">
                     <h3 className="text-2xl font-bold">Standard</h3>
                     <p className="text-4xl font-bold">
-                      $59
+                      $99
                       <span className="text-lg font-normal text-gray-500 dark:text-gray-400">/mo</span>
                     </p>
                   </div>
@@ -232,7 +232,7 @@ export default function Home() {
                   <div className="space-y-2">
                     <h3 className="text-2xl font-bold">Premium</h3>
                     <p className="text-4xl font-bold">
-                      $104
+                      $170
                       <span className="text-lg font-normal text-gray-500 dark:text-gray-400">/mo</span>
                     </p>
                   </div>
