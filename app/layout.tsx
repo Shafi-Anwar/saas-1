@@ -1,5 +1,6 @@
 
 import type { Metadata } from "next";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import { Libre_Franklin } from 'next/font/google'
 import "./globals.css";
 import Header from "../components/Header";
@@ -28,6 +29,7 @@ export default function RootLayout({
        disableTransitionOnChange>
       <body className={libre_franklin.className}>
         <Header />
+        <SpeedInsights />
         {children}</body>
         </ThemeProvider>
     </html>

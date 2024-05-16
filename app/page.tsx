@@ -174,8 +174,122 @@ export default function Home() {
                       <CheckIcon className="mr-2 inline-block h-4 w-4 text-green-500" />Limited Templates
                     </li>
                     <li>
-                      <WrongIcon className="mr-2 inline-block h-4 w-4" />Designs for you
+                      <WrongIcon className="mr-2 inline-block h-4 w-4" />Designs templates for you
                     </li>
+                    <li>
+                    <WrongIcon className="mr-2 inline-block h-4 w-4" />Code for you
+</li>
+
+<li>
+                    <WrongIcon className="mr-2 inline-block h-4 w-4" />Developer Access</li>
+
+                    <li>
+                    <WrongIcon className="mr-2 inline-block h-4 w-4"/> New Designs in market
+</li>
+             
+
+                  </ul>
+                </CardContent>
+              </Card>
+
+
+              <Card className="cursor-pointer hover:drop-shadow-md md:drop-shadow-xl">
+                <CardHeader>
+                  <div className="space-y-2">
+                    <h3 className="text-2xl font-bold">Standard</h3>
+                    <p className="text-4xl font-bold">
+                      $59
+                      <span className="text-lg font-normal text-gray-500 dark:text-gray-400">/mo</span>
+                    </p>
+                  </div>
+                </CardHeader>
+                <CardContent className="space-y-4">
+                  <ul className="space-y-2 text-sm text-gray-500 dark:text-gray-400">
+                    <li>
+                      <CheckIcon className="mr-2 inline-block h-4 w-4 text-green-500" />Limited Templates
+                    </li>
+                    <li>
+                      <CheckIcon className="mr-2 inline-block h-4 w-4 text-green-500" />Designs templates for you
+                    </li>
+                    <li>
+                      <WrongIcon className="mr-2 inline-block h-4 w-4" />Code for you
+                    </li>
+
+                    <li>
+                      <WrongIcon className="mr-2 inline-block h-4 w-4" />Developer access
+</li>
+<li>
+                    <WrongIcon className="mr-2 inline-block h-4 w-4" />New Market Designs
+</li>
+                  </ul>
+                </CardContent>
+              </Card>
+
+
+
+              <Card className="cursor-pointer hover:drop-shadow-md md:drop-shadow-xl">
+                <CardHeader>
+                  <div className="space-y-2">
+                    <h3 className="text-2xl font-bold">Premium</h3>
+                    <p className="text-4xl font-bold">
+                      $104
+                      <span className="text-lg font-normal text-gray-500 dark:text-gray-400">/mo</span>
+                    </p>
+                  </div>
+                </CardHeader>
+                <CardContent className="space-y-4">
+                  <ul className="space-y-2 text-sm text-gray-500 dark:text-gray-400">
+                    <li>
+                      <CheckIcon className="mr-2 inline-block h-4 w-4 text-green-500" />Limited Templates
+                    </li>
+                    <li>
+                      <CheckIcon className="mr-2 inline-block h-4 w-4 text-green-500" />Designs templates for you
+                      </li>
+                      <li>
+                    <CheckIcon className="mr-2 inline-block h-4 w-4 text-green-500" />Code for you
+</li>
+<li>
+<WrongIcon className="mr-2 inline-block h-4 w-4" />Developer Access
+</li>
+
+<li>
+<CheckIcon className="mr-2 inline-block h-4 w-4 text-green-500" />New Market Designs
+</li>
+
+                  </ul>
+                </CardContent>
+              </Card>
+
+
+              <Card className="cursor-pointer hover:drop-shadow-md md:drop-shadow-xl">
+                <CardHeader>
+                  <div className="space-y-2">
+                    <h3 className="text-2xl font-bold">Grand</h3>
+                    <p className="text-4xl font-bold">
+                      $300
+                      <span className="text-lg font-normal text-gray-500 dark:text-gray-400">/mo</span>
+                    </p>
+                  </div>
+                </CardHeader>
+                <CardContent className="space-y-4">
+                  <ul className="space-y-2 text-sm text-gray-500 dark:text-gray-400">
+                    <li>
+                      <CheckIcon className="mr-2 inline-block h-4 w-4 text-green-500" />Limited Templates
+                    </li>
+                    <li>
+                      <CheckIcon className="mr-2 inline-block h-4 w-4 text-green-500" />Designs templates for you
+                      </li>
+                      <li>
+                    <CheckIcon className="mr-2 inline-block h-4 w-4 text-green-500" />Code for you
+</li>
+<li>
+<CheckIcon className="mr-2 inline-block h-4 w-4 text-green-500" />Developer Access
+</li>
+
+<li>
+<CheckIcon className="mr-2 inline-block h-4 w-4 text-green-500" />New Market Designs
+</li>
+
                   </ul>
                 </CardContent>
               </Card>
